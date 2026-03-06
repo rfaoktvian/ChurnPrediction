@@ -5,3 +5,4 @@ Project ini digunakan untuk memprediksi churn yang kemungkinan terjadi pada pela
 
 
 sefnjsnajfknjedddddddddddddddddddddddddddddddddddaknajkfnjakkkkkkkkkkkkkkkkkkk
+nnnnnnnnnnnnnnn
