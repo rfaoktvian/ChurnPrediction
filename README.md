@@ -30,19 +30,19 @@ Definisi yang lebih luas ini dipilih (dibanding hanya membandingkan `Fully Paid`
 ```
 Data Understanding
       ↓
-EDA 
+     EDA 
       ↓
 Feature Selection 
       ↓
 Train-Test Split 
       ↓
-Encoding 
+   Encoding 
       ↓
-SMOTE 
+    SMOTE 
       ↓
-Modeling 
+   Modeling 
       ↓
-Evaluation 
+  Evaluation 
 ```
 
 ## Tech Stack
