@@ -30,19 +30,19 @@ Definisi yang lebih luas ini dipilih (dibanding hanya membandingkan `Fully Paid`
 ```
 Data Understanding
       ↓
-EDA (distribusi, korelasi, missing value)
+EDA 
       ↓
-Feature Selection (exclude kolom leakage)
+Feature Selection 
       ↓
-Train-Test Split (80:20, stratified)
+Train-Test Split 
       ↓
-Encoding (Ordinal) + Scaling (Standard) — fit di train saja
+Encoding 
       ↓
-SMOTE (hanya di data train)
+SMOTE 
       ↓
-Modeling (Logistic Regression, Random Forest)
+Modeling 
       ↓
-Evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
+Evaluation 
 ```
 
 ## Tech Stack
