@@ -67,3 +67,4 @@ Seluruh eksperimen (parameter, metrik, model artifact) di-track menggunakan MLfl
 
 **Nazly Rafa Oktafian Nuzqu**
 Information Systems Student — Universitas Telkom
+Data Analyst & Scientist Enthusiast
