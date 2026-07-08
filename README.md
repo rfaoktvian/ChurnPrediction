@@ -60,7 +60,7 @@ Train-Test Split
 
 Seluruh eksperimen (parameter, metrik, model artifact) di-track menggunakan MLflow dan dapat dilihat di dashboard DagsHub:
 
-🔗 **[Dashboard Experiment — akan ditambahkan]**
+🔗 **Dashboard akan ditambahkan di sini**
 
 
 ## Author
